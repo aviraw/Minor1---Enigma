@@ -1,4 +1,7 @@
 # Minor1
+[![GitHub contributors](https://img.shields.io/github/contributors/aviraw/Minor1.svg)](https://github.com/aviraw/Minor1/graphs/contributors)
+#
+
 This is official repo for Minor 1
 
 Fork it. Do changes in your main repo on your profiles and push it here.
