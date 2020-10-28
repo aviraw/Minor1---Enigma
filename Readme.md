@@ -1,4 +1,4 @@
-# Welcome to Enigma !
+# :sparkles: Welcome to Enigma ! :sparkles:
 #
 ## _Enigma - A File Security System based on Standard Cryptographic Algorithms using structured programming approach_
 #
