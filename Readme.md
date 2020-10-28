@@ -17,7 +17,7 @@
 
 ### Team for the Project
 * [Aman Bhardwaj](https://github.com/iaman877)            500067105   R164218009
-* [Aviral Kumar Srivastava] (https://github.com/aviraw)  500068442   R164218020
+* [Aviral Kumar Srivastava](https://github.com/aviraw)  500068442   R164218020
 * [Keshav Garg](https://github.com/KeshavGarg01)              500069767   R164218035
 * [Meghna Barthwal](https://github.com/MeghnaBarthwal)         500067369   R164218045
 
