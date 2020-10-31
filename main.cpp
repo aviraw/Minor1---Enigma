@@ -23,7 +23,7 @@ void AddRoundKey(unsigned char * state, unsigned char * roundKey) {
  */
 void SubBytes(unsigned char * state) {
 	for (int i = 0; i < 16; i++) {
-		state[i] = s[state[i]];								//DID NOT UNDERSTAND
+		state[i] = s[state[i]];								
 	}
 }
 
@@ -317,7 +317,7 @@ int encryptioncall()
 	unsigned char key[16];
 	int i = 0;
 	unsigned int c;
-	while (hex_chars_stream >> hex >> c)                         /*DID NOT UNDERSTAND THIS*/
+	while (hex_chars_stream >> hex >> c)                         
 	{
 		key[i] = c;
 		i++;
@@ -325,7 +325,7 @@ int encryptioncall()
 
 	unsigned char expandedKey[176];
 
-	KeyExpansion(key, expandedKey);								//DID NOT UNDERSTAND
+	KeyExpansion(key, expandedKey);								
 
 	for (int i = 0; i < paddedMessageLen; i += 16) {
 		AESEncrypt(paddedMessage+i, expandedKey, encryptedMessage+i);
