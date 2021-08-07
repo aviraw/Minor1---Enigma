@@ -4,6 +4,7 @@
 #
 
 # Design
+This is official repo for Minor 1 for which documentation is [(here.)](https://github.com/aviraw/Minor1/blob/documentation/Enigma%20-%20ProjectExpo.pptx.pdf)
 
 # Methodology Used
 - Symmetric Cryptography
