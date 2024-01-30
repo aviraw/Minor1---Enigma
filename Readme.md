@@ -10,16 +10,20 @@ This is official repo for Minor 1 for which documentation is [(here.)](https://g
 - Symmetric Cryptography
 - AES Algorithm
 
-# Explaination of Code
+# Source Code
 
-```markdown
-//This is code snippet 1
-```
+[Code Repo](https://github.com/aviraw/Minor1---Enigma)
 
-### Team for the Project
-* [Aman Bhardwaj](https://github.com/iaman877)            500067105   R164218009
-* [Aviral Kumar Srivastava](https://github.com/aviraw)  500068442   R164218020
-* [Keshav Garg](https://github.com/KeshavGarg01)              500069767   R164218035
-* [Meghna Barthwal](https://github.com/MeghnaBarthwal)         500067369   R164218045
+# Video Simulation
+
+https://github.com/aviraw/Minor1---Enigma/assets/47274991/b69073d6-8c31-452d-ad90-878c2271530f
+
+# Presentation with Team
+
+https://github.com/aviraw/Minor1---Enigma/assets/47274991/ccec37f6-43d0-4770-acb9-1eb03dcbae3f
+
+
+
+
 
 
